@@ -4,7 +4,7 @@
 // @description    ADD COMMENT && TOP COMMENT (Jquery)
 // @author         David ROMERA <d.romera.11@gmail.com> | Camillz
 // @license        MIT
-// @version        1.0.2
+// @version        1.0.3
 // @date           24-11-2021
 // @icon           https://www.jeuxvideo.com/favicon.png
 // @require        https://code.jquery.com/jquery-3.5.1.min.js
