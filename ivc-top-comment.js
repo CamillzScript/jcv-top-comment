@@ -4,7 +4,7 @@
 // @description    ADD COMMENT && TOP COMMENT (Jquery)
 // @author         David ROMERA <d.romera.11@gmail.com> | Camillz
 // @license        MIT
-// @version        1.0.0
+// @version        1.0.1
 // @date           24-11-2021
 // @icon           https://www.jeuxvideo.com/favicon.png
 // @require        https://code.jquery.com/jquery-3.5.1.min.js
@@ -17,7 +17,6 @@ let $ = window.$
 function setTopComments() {
     // INIT VAR
     let comments = [],
-        scores = [],
         html
 
     $(".bloc-message-forum").each(function() {
